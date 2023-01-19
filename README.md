@@ -7,6 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Sobre a aplicação
+-Criar tabela no banco de dados
+    fazer as migrações
+-Utilizar as rotas para navegar sobre a aplicação
+    /cadastrar-cliente
+    /mostrar-cliente/1
+    /editar-cliente/1
+    /atualizar-cliente/1
+    /excluir-cliente/1
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
