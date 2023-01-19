@@ -9,12 +9,18 @@
 
 ## Sobre a aplicação
 -Criar tabela no banco de dados
+    <p></p>
     fazer as migrações
+    <p></p>
 -Utilizar as rotas para navegar sobre a aplicação
     /cadastrar-cliente
+    <p></p>
     /mostrar-cliente/1
+    <p></p>
     /editar-cliente/1
+    <p></p>
     /atualizar-cliente/1
+    <p></p>
     /excluir-cliente/1
 
 
